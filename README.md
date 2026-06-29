@@ -1,19 +1,15 @@
-# RF-RADAR-Studio
-"Professional FMCW Radar GUI for OPS241B with real-time visualization"
 # 📡 RF RADAR Studio Professional
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/pbsansode90090/RF-RADAR-Studio)](https://github.com/pbsansode90090/RF-RADAR-Studio/issues)
-[![GitHub stars](https://img.shields.io/github/stars/pbsansode90090/RF-RADAR-Studio)](https://github.com/pbsansode90090/RF-RADAR-Studio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/pbsansode90090/RF-RADAR-Studio)](https://github.com/pbsansode90090/RF-RADAR-Studio/network)
+[![GitHub issues](https://img.shields.io/github/issues/psbansode90090/RF-RADAR-Studio)](https://github.com/psbansode90090/RF-RADAR-Studio/issues)
+[![GitHub stars](https://img.shields.io/github/stars/psbansode90090/RF-RADAR-Studio)](https://github.com/psbansode90090/RF-RADAR-Studio/stargazers)
 
 ## 📡 Overview
 
 **RF RADAR Studio Professional** is a professional FMCW (Frequency Modulated Continuous Wave) radar visualization and analysis tool built with Python, PyQt5, and PyQtGraph. It provides real-time radar data visualization with an intuitive dark-themed interface, designed for OPS241B radar modules.
 
-![Application Screenshot](screenshot.png)
 
 ## ✨ Features
 
@@ -56,5 +52,5 @@
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/pbsansode90090/RF-RADAR-Studio.git
+git clone https://github.com/psbansode90090/RF-RADAR-Studio.git
 cd RF-RADAR-Studio
